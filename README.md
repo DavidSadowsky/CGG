@@ -1,2 +1,2 @@
 # CGG
-Clone Genetics Generator
+Clone Genetics Generator for Rust
